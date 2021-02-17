@@ -24,7 +24,7 @@ Nesse projeto, utilizo as seguintes tecnologias:
 
 ### `Sobre`
 
-Projeto feito seguindo as orientações do curso React Js do zero ao avançando na prática da Udemy. 
+Projeto feito seguindo as orientações do curso React Js do zero ao avançando na prática da Udemy. O projeto foi feito com o objetivo de treinar o que já aprendi e para iniciar com o uso de Styled Components do react.
 
 ### `Status do Projeto`
 
