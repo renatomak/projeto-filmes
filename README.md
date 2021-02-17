@@ -1,21 +1,31 @@
+# BOAS VINDAS AO REPOSITÓRIO DO PROJETO "Filmes"!
+
+---
+
+## HABILIDADES
+
+Nesse projeto, utilizo as seguintes tecnologias:
+
+* HTML;
+* CSS;
+* React;
+* router;
+* styled components;
+
+---
+
+## SUMÁRIO
+
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Status do Projeto](#Status-do-Projeto)
+   * [Habilidades](#Habilidades)
 <!--te-->
 
 ### `Sobre`
 
 Projeto feito seguindo as orientações do curso React Js do zero ao avançando na prática da Udemy.
 
-### `npm run eject`
+### `Status do Projeto`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Projeto com os requisitos obrigatórios todos concluidos. 
