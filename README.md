@@ -24,7 +24,7 @@ Nesse projeto, utilizo as seguintes tecnologias:
 
 ### `Sobre`
 
-Projeto feito seguindo as orientações do curso React Js do zero ao avançando na prática da Udemy.
+Projeto feito seguindo as orientações do curso React Js do zero ao avançando na prática da Udemy. 
 
 ### `Status do Projeto`
 
